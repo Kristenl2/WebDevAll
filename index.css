@@ -47,3 +47,10 @@ body{
 #content{
     margin-left:250px;
 }
+
+table{
+    width:80%;
+}
+table, th, td{
+    border: 1px solid rgb(52,76,79);
+}
